@@ -37,11 +37,11 @@ The ViewController class uses a UIPageViewController to manage the display of fl
 The CreationViewController class allows the user to create or edit a flashcard. It has four text fields for the question, answer, and two extra answers. When the user taps the "Done" button, the CreationViewController class validates the input and either creates a new flashcard or updates an existing flashcard.
 
 ## Future Plans
-In future, I intend to the following features to the Flashcard app:
+In future, I intend to add the following features to the Flashcard app:
 - Study flashcards in a random order
 - Study flashcards in the Study view, with options to mark cards as correct or incorrect and track progress
 - Share flashcards with other users
-Add support for images and multimedia in flashcards
+- Add support for images and multimedia in flashcards
 - Allow for multiple customizable fonts
 - Users can create a basic user profile with name, email and other relevant identifying or non-identifying data.
 - Allow users to be able to import and export flashcards as CSV files
