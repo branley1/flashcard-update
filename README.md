@@ -2,7 +2,7 @@
 The Flashcard app is a simple iOS application for creating and studying flashcards. It allows users to create custom flashcards with questions and answers, and includes features for shuffling, deleting, and editing existing flashcards. The app was developed using Swift and the UIKit framework. This is the most recent update to the app, and subsequent updates will be made under this new repository. A link to the old version of this app is here: https://github.com/branley1/FlashcardApp. 
 
 ## Getting Started
-To install and run locally Flashcard app, you'll need a Mac running macOS 11 or later, and Xcode 13 or later installed. Clone the repository: ```git clone ```, then navigate to the directory: ```cd flashcard-update```
+To install and run locally Flashcard app, you'll need a Mac running macOS 11 or later, and Xcode 13 or later installed. Clone the repository: ```git clone https://github.com/branley1/flashcard-update```, then navigate to the directory: ```cd flashcard-update```
 
 Once you have Xcode installed, you can open the Flashcards project by double-clicking on the Flashcards.xcodeproj file. You can then build and run the app using the simulator or a physical iOS device.
 
